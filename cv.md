@@ -3,13 +3,13 @@ https://BaranovaEK.github.io/rsschool-cv/cv
 # rsschool-cv
 ## **Ekaterina Baranova**
 
-## ![photo]("img/1.jpg")
+![photo](img/1.jpg)
 
 ## Contact 
 * phone: +375292778189
-* email:kategaidyk@gmail.com
+* email: kategaidyk@gmail.com
 * address: Belarus, Vitebsk region
-* Discord: BaranovaEK#6655
+* Discord: BaranovaEK
 
 ## Summary:
 The goal is to become an experienced web development professional. Why? Because I always liked to learn something new and aspecualy connected with computer technologys.
@@ -21,6 +21,7 @@ The goal is to become an experienced web development professional. Why? Because 
 * HTML
 
 ## Code example
+### [8 kyu Multiply the number](https://www.codewars.com/kata/5708f682c69b48047b000e07)
 ```
 function multiply(number){
   if (number > 0){

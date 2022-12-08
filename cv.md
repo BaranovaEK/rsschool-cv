@@ -1,8 +1,4 @@
-https://BaranovaEK.github.io/rsschool-cv/cv
-
-# rsschool-cv
 ## **Ekaterina Baranova**
-
 ![photo](img/1.jpg)
 
 ## Contact 

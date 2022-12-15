@@ -1,0 +1,74 @@
+p {
+    font-family: Helvetica, Arial, sans-serif;
+    color: #000000;
+    font-size: 20px;
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    width: 600px;
+    margin-top: 0;
+    background: rgb(97, 182, 135);
+    padding: 5px;
+}
+
+body {
+    width: 500px;
+    height: 1400px;
+    margin: 0 auto;
+}
+
+.main {
+    margin-top: 70px;
+}
+
+.menu {
+    margin: 0;
+    padding: 4px;
+}
+
+.menu {
+    display: inline;
+    margin-right: 5px;
+    padding: 3px;
+}
+.menu li {
+    text-decoration: none;
+    color: #000000;
+}
+h1 {
+    font-family: Helvetica, Arial, sans-serif;
+    color: #000000;
+    font-size: 40px;
+}
+
+h2 {
+    font-family: Helvetica, Arial, sans-serif;
+    color: #000000;
+    font-size: 30px;
+}
+
+h3 {
+    font-family: Helvetica, Arial, sans-serif;
+    color: #000000;
+    font-size: 20px;
+}
+
+li {
+    font-family: Helvetica, Arial, sans-serif;
+    color: #000000;
+    font-size: 20px;
+}
+
+code {
+    font-family: Helvetica, Arial, sans-serif;
+    color: #000000;
+    font-size: 15px;
+}
+
+.wraper-footer {
+    display: inline;
+    margin: 0;
+    padding: 4px;
+}
